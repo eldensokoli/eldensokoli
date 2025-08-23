@@ -26,3 +26,20 @@ Here are some ideas to get you started:
   />
   <img alt="Breakout Game" src="example/light.svg" />
 </picture>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eldensokoli&layout=compact&theme=tokyonight)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F700&lines=DevOps+Engineer;CI/CD+Pipeline+Automator;Open+Source+Contributor)](https://git.io/typing-svg)
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&border_radius=5)
+
+
+
