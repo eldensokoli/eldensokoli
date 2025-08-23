@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   <img alt="Breakout Game" src="example/light.svg" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F700&lines=Cloud+Solution+Engineer;DevOps+Engineer;CI/CD+Pipeline+Automator;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&lines=Cloud+Solution+Engineer;DevOps+Engineer;CI/CD+Pipeline+Automator;)](https://git.io/typing-svg)
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
