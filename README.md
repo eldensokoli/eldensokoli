@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&lines=Cloud+Solution+Engineer;DevOps+Engineer;CI/CD+Pipeline+Automator;)](https://git.io/typing-svg)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -24,5 +26,3 @@ Here are some ideas to get you started:
   />
   <img alt="Breakout Game" src="example/light.svg" />
 </picture>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&lines=Cloud+Solution+Engineer;DevOps+Engineer;CI/CD+Pipeline+Automator;)](https://git.io/typing-svg)
