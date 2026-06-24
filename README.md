@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&lines=Cloud+Solution+Engineer;DevOps+Engineer;CI/CD+Pipeline+Automator;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&lines=Cloud+Solution+Engineer;DevOps+Engineer;CI/CD+Workflows;)](https://git.io/typing-svg)
 
 <picture>
   <source
@@ -25,4 +25,10 @@ Here are some ideas to get you started:
     srcset="example/light.svg"
   />
   <img alt="Breakout Game" src="example/light.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/dist/github-snake.svg" />
 </picture>
