@@ -8,7 +8,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 10
     permissions:
       contents: write
 
@@ -38,6 +38,3 @@ jobs:
           plugin_languages_details: percentage
           # no recently-used: that analyzer crashes on GitHub's current push-event payloads
           plugin_languages_sections: most-used
-          # count only lines from my own commits, so other people's code in org repos doesn't skew it
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 20
