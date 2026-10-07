@@ -26,12 +26,18 @@ Here are some ideas to get you started:
 ## 🏅 Certifications
 
 [![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-fundamentals/)
-[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=powerapps&logoColor=white)](https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/)
+
+[![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-administrator/)
+
 [![AZ-400](https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](https://learn.microsoft.com/credentials/certifications/devops-engineer/)
-<br/>
+
 [![GH-900](https://img.shields.io/badge/GH--900-GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/credentials/certifications/github-foundations/)
+
 [![GH-200](https://img.shields.io/badge/GH--200-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://learn.microsoft.com/credentials/certifications/github-actions/)
+
 [![GH-500](https://img.shields.io/badge/GH--500-GitHub_Advanced_Security-2EA043?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://learn.microsoft.com/credentials/certifications/github-advanced-security/)
+
+[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=powerapps&logoColor=white)](https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/)
 
 ## 🛠️ Tech Stack
 
