@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/github-snake.svg" />
 </picture>
 
+![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 🏅 Certifications
 
@@ -41,10 +42,6 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 [![Tech stack](https://skillicons.dev/icons?i=azure,githubactions,github,docker,kubernetes,powershell,bash,python,swift,godot,vscode,linux&perline=12)](https://skillicons.dev)
-
-## 🏙️ 3D Contributions
-
-![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 👻 Pac-Man Contributions
 

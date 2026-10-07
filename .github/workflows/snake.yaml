@@ -23,6 +23,9 @@ jobs:
 
       # Pac-Man shares the snake's push: both write to dist/ and the output
       # branch is force-pushed, so a separate workflow would wipe the other.
+      # snk runs in Docker as root, so hand dist/ back to the runner user first.
+      - run: sudo chown -R "$(id -u):$(id -g)" dist
+
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}

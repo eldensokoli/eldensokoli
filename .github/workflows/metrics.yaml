@@ -8,7 +8,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     permissions:
       contents: write
 
@@ -26,13 +26,20 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugins.svg
-          # METRICS_TOKEN (classic PAT, read:user + repo) unlocks private-repo data; falls back to the action token
+          # METRICS_TOKEN (classic PAT: repo, read:org, read:user) is needed to see the
+          # private Stackmeisterei repos; the action token only sees public ones
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           base: ""
           config_timezone: Europe/Berlin
+          # include org repos, not just the ones eldensokoli owns
+          repositories_affiliations: owner, collaborator, organization_member
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
+          plugin_languages_sections: most-used, recently-used
+          # count only lines from my own commits, so other people's code in org repos doesn't skew it
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 20
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
