@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-[![Tech stack](https://skillicons.dev/icons?i=azure,githubactions,github,docker,kubernetes,powershell,bash,python,swift,godot,vscode,linux&perline=12)](https://skillicons.dev)
+<!-- built from skillicons.dev + the official Bicep logo, since skillicons has no Bicep icon -->
+![Tech stack: Azure, Bicep, GitHub Actions, GitHub, Docker, Java, PowerShell, Bash, Python, Swift, Godot, VS Code, Linux](./assets/tech-stack.svg)
 
 ## 👻 Pac-Man Contributions
 
