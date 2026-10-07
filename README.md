@@ -59,6 +59,6 @@ Here are some ideas to get you started:
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=eldensokoli&hide_border=true" />
 </picture>
 
-## 📊 Languages, Achievements & Habits
+## 📊 Languages
 
 ![Metrics](./metrics.plugins.svg)
