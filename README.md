@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&lines=Cloud+Solution+Engineer;DevOps+Engineer;CI/CD+Workflows;)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eldensokoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldensokoli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eldensokoli.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://eldensokoli.github.io)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/github-snake.svg" />
@@ -63,3 +66,9 @@ Here are some ideas to get you started:
 ## 📊 Languages
 
 ![Metrics](./metrics.plugins.svg)
+
+## ⏱️ Weekly Coding Time
+
+<!-- filled in daily by .github/workflows/waka.yaml from WakaTime -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
