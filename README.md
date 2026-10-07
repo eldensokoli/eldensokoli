@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&lines=Cloud+Solution+Engineer;DevOps+Engineer;CI/CD+Workflows;)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eldensokoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldensokoli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elden--sokoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elden-sokoli/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-eldensokoli.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://eldensokoli.github.io)
 
 <picture>
