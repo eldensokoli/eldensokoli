@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&lines=Cloud+Solution+Engineer+at+HAFN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&width=600&lines=Cloud+Solution+Engineer+at+HAFN)](https://git.io/typing-svg)
 
 Hi, I'm Elden 👋 I build and run Azure platforms for customers at HAFN. Day to day that means Infrastructure as Code with Bicep, reusable modules and landing zones, and GitHub Actions pipelines that ship them safely to production. I like automating the boring parts, keeping CI/CD clean and secure, and turning manual cloud work into repeatable code.
 
