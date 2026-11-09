@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&lines=Cloud+Solution+Engineer;DevOps+Engineer;CI/CD+Workflows;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=00F700&lines=Cloud+Solution+Engineer+at+HAFN)](https://git.io/typing-svg)
+
+Hi, I'm Elden 👋 I build and run Azure platforms for customers at HAFN. Day to day that means Infrastructure as Code with Bicep, reusable modules and landing zones, and GitHub Actions pipelines that ship them safely to production. I like automating the boring parts, keeping CI/CD clean and secure, and turning manual cloud work into repeatable code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elden--sokoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elden-sokoli/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-eldensokoli.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://eldensokoli.github.io)
@@ -40,20 +42,14 @@ Here are some ideas to get you started:
 
 [![GH-500](https://img.shields.io/badge/GH--500-GitHub_Advanced_Security-2EA043?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://learn.microsoft.com/credentials/certifications/github-advanced-security/)
 
+[![GH-100](https://img.shields.io/badge/GH--100-GitHub_Administration-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/credentials/certifications/github-administration/)
+
 [![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=powerapps&logoColor=white)](https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/)
 
 ## 🛠️ Tech Stack
 
 <!-- built from skillicons.dev + the official Bicep logo, since skillicons has no Bicep icon -->
 ![Tech stack: Azure, Bicep, GitHub Actions, GitHub, Docker, Java, PowerShell, Bash, Python, Swift, Godot, VS Code, Linux](./assets/tech-stack.svg)
-
-## 👻 Pac-Man Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/pacman-contribution-graph.svg" />
-</picture>
 
 ## 🔥 Streak
 
