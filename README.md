@@ -26,8 +26,6 @@ Hi, I'm Elden 👋 I build and run Azure platforms for customers at HAFN. Day to
   <img alt="github-snake" src="https://raw.githubusercontent.com/eldensokoli/eldensokoli/output/github-snake.svg" />
 </picture>
 
-![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ## 🏅 Certifications
 
 [![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-fundamentals/)
@@ -59,9 +57,9 @@ Hi, I'm Elden 👋 I build and run Azure platforms for customers at HAFN. Day to
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=eldensokoli&hide_border=true" />
 </picture>
 
-## 📊 Languages
+## 📊 Contributions & Languages
 
-![Metrics](./metrics.plugins.svg)
+![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## ⏱️ Weekly Coding Time
 
